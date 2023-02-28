@@ -17,4 +17,4 @@ spec:
           - name: mycont
             image: shivani999/vertex9dec22:2
             ports:
-             - containerPort: 8084
+             - containerPort: 8080
